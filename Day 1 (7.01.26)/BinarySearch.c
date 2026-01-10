@@ -31,3 +31,11 @@ int main() {
 
     return 0;
 }
+
+//OUTPUT
+/*
+Step 1: low=0 high=4 mid=2 checking 5
+Step 2: low=3 high=4 mid=3 checking 7
+Step 3: low=4 high=4 mid=4 checking 9
+Element found at position 5
+*/
