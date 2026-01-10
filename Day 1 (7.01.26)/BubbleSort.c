@@ -23,3 +23,15 @@ int main() {
 
     return 0;
 }
+
+//OUTPUT
+/*
+Pass 1
+34 1 22 41 
+
+Pass 2
+1 22 34 41 
+
+Pass 3
+1 22 34 41
+*/
